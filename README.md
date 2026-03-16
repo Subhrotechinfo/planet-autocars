@@ -1,4 +1,5 @@
 # Planet Auto 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67605c39-9dff-42e4-8ebd-496328a1cd44/deploy-status)](https://app.netlify.com/projects/planetautocars/deploys)
 
 Built with **Vite + React + Tailwind CSS**.
 
