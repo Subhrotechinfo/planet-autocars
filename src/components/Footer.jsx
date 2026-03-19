@@ -88,7 +88,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://maps.app.goo.gl/T2AYWEcfXbFK62PM9" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 text-gray-400 hover:text-white transition-colors">
+                <a href="https://maps.app.goo.gl/BrrpUrUZoLJzEm1h7" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 text-gray-400 hover:text-white transition-colors">
                   <MapPin size={15} className="mt-0.5 text-brand-red shrink-0" />
                   <span>Shizhong District, Jinan
 市中区
